@@ -1,0 +1,25 @@
+# Binarios compilados
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Archivos generados
+*.log
+
+# Carpetas comunes de build
+/bin/
+/build/
+
+# Módulos de dependencia
+/vendor/
+
+# Archivos de entorno y config local
+.env
+
+# Archivos de IDEs
+.vscode/
+.idea/
+*.swp
